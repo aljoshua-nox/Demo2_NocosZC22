@@ -1,7 +1,7 @@
 # Django Project - Demo_NocosZC22 
  
 ## Description 
-This is a Django practice project from Lecture 7: Getting Started with Django. 
+This is a Django practice project from Lecture 9: Front-End Architecture: Logic and Data Models
  
 ## Features 
 - Django project setup 
